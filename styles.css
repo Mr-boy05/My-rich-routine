@@ -301,4 +301,20 @@ body {
 .flowers .card {
     text-align: center;
 }
+
+/* 版权声明样式 */
+.copyright {
+    padding: 1rem 2rem;
+    background: var(--bg-color);
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.copyright p {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
   
